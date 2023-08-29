@@ -15,4 +15,7 @@
 ![Screenshot (235)](https://github.com/POORNIMA-MC/ANALYSING-CUSTOMER-CHURN-IN-BANKING-SECTOR/assets/94465883/90e83561-3dd0-438e-b316-42a721e5154e)
 
 ## Details about the files 
-#### 
+#### 1. html file : templates/index.html 
+#### 2. ML implementation : Churn.ipynb
+#### 3. Dataset: Churn_Modelling.csv 
+#### 4. Model implementation : app.py
